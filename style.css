@@ -15,6 +15,7 @@ h1 {
 p {
     color : white;
     text-align: justify;
+    padding: 20px;
 }
 
 ul {
