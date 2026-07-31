@@ -5,9 +5,12 @@ body {
 
 }
 
+head {
+    background-color: blue;
+}
+
 h1 {
     color: white;
-    background-color: blue;
     text-align: center;
 }
 
