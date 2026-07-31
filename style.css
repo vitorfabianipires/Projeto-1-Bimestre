@@ -1,6 +1,8 @@
 body {
-    background-color: lightblue;
+    background-color: #e2e8f0;
     font-family: sans-serif;
+    color: #333333;
+
 }
 
 head {
@@ -13,11 +15,15 @@ h1 {
 }
 
 p {
-    color : white;
+    color : #475569;
     text-align: justify;
     padding: 20px;
 }
 
 ul {
-    color: white;
+    background-color: #ffff;
+    padding: 20px;
+    width: 300px;
+    margin: 0 auto;
+    
 }
